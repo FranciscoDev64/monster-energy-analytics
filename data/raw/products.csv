@@ -1,0 +1,35 @@
+product_id,sku,brand,category,product_name,flavor,package_size,units_per_case,case_cost,case_price,active
+1001,MONS-ORI,Monster Energy,Energy Drink,Monster Energy Original,Original,16 oz Can,24,22.58,35.5,True
+1002,MONS-ZERSUG,Monster Energy,Energy Drink,Monster Energy Zero Sugar,Zero Sugar,16 oz Can,24,22.95,31.22,True
+1003,MONS-LO-,Monster Energy,Energy Drink,Monster Energy Lo-Carb,Lo-Carb,16 oz Can,24,24.18,33.6,True
+1004,MONS-IMP,Monster Energy,Energy Drink,Monster Energy Import,Import,18.6 oz Can,12,26.03,34.43,True
+1005,MONS-ULTWHI,Monster Ultra,Ultra,Monster Ultra Ultra White,Ultra White,16 oz Can,24,27.7,36.69,True
+1006,MONS-ULTBLU,Monster Ultra,Ultra,Monster Ultra Ultra Blue,,16 oz Can,24,23.99,35.16,True
+1007,MONS-ULTRED,Monster Ultra,Ultra,Monster Ultra Ultra Red,Ultra Red,16 oz Can,24,27.74,37.6,True
+1008,MONS-ULTPAR,Monster Ultra,Ultra,Monster Ultra Ultra Paradise,Ultra Paradise,16 oz Can,24,26.12,36.32,True
+1009,MONS-ULTSUN,Monster Ultra,Ultra,Monster Ultra Ultra Sunrise,Ultra Sunrise,16 oz Can,24,23.62,37.5,True
+1010,MONS-ULTVIO,Monster Ultra,Ultra,Monster Ultra Ultra Violet,Ultra Violet,16 oz Can,24,25.54,36.33,True
+1011,MONS-ULTGOL,Monster Ultra,Ultra,Monstor Energy Ultra White,Ultra Gold,16 oz Can,24,24.63,36.49,True
+1012,MONS-ULTWAT,Monster Ultra,Ultra,Monster Ultra Ultra Watermelon,Ultra Watermelon,16 oz Can,24,25.77,33.96,True
+1013,MONS-ULTPEAKEE,Monster Ultra,Ultra,Monster Ultra Ultra Peachy Keen,Ultra Peachy Keen,16 oz Can,24,26.32,34.9,True
+1014,MONS-ULTFIEMAN,Monster Ultra,Ultra,Monster Ultra Ultra Fiesta Mango,Ultra Fiesta Mango,16 oz Can,24,26.74,33.87,True
+1015,MONS-ULTSTRDRE,Monster Ultra,Ultra,Monster Ultra Ultra Strawberry Dreams,Ultra Strawberry Dreams,16 oz Can,24,25.85,35.03,True
+1016,MONS-ULTFANRUBRED,Monster Ultra,Ultra,Monster Ultra Ultra Fantasy Ruby Red,Ultra Fantasy Ruby Red,16 oz Can,24,27.17,34.52,True
+1017,JUIC-MANLOC,Juice Monster,Juice,Juice Monster Mango Loco,Mango Loco,16 oz Can,24,25.26,39.71,True
+1018,JUIC-PIPPUN,Juice Monster,Juice,Juice Monster Pipeline Punch,Pipeline Punch,16 oz Can,24,27.64,36.93,True
+1019,JUIC-PACPUN,Juice Monster,Juice,Juice Monster Pacific Punch,Pacific Punch,16 oz Can,24,26.65,39.05,True
+1020,JUIC-AUSSTYLEM,Juice Monster,Juice,Juice Monster Aussie Style Lemonade,Aussie Style Lemonade,16 oz Can,24,27.07,39.76,True
+1020,JUIC-PAP,Juice Monster,Juice,Juice Monster Papillon,Papillon,16 oz Can,24,29.76,39.42,True
+1022,JUIC-RIOPUN,Juice Monster,Juice,Juice Monster Rio Punch,Rio Punch,16 oz Can,24,27.95,36.7,True
+1023,JUIC-KHA,Juice Monster,Juice,Juice Monster Khaotic,Khaotic,16 oz Can,24,27.98,38.72,True
+1024,JAVA-MEABEA,Java Monster,Coffee Energy,Java Monster Mean Bean,Mean Bean,15 oz Can,12,20.56,35.71,True
+1025,JAVA-LOCMOC,Java Monster,Coffee Energy,Java Monster Loca Moca,Loca Moca,15 oz Can,12,21.41,31.86,True
+1026,JAVA-IRICRÈ,Java Monster,Coffee Energy,Java Monster Irish Crème,Irish Crème,15 oz Can,12,24.84,-30.88,True
+1027,JAVA-FREVAN,Java Monster,Coffee Energy,Java Monster French Vanilla,French Vanilla,15 oz Can,12,20.28,35.9,True
+1028,JAVA-SALCAR,Java Monster,Coffee Energy,Java Monster Salted Caramel,Salted Caramel,15 oz Can,12,23.67,34.61,True
+1029,REIG-ORADRE,Reign,Performance Energy,Reign Orange Dreamsicle,Orange Dreamsicle,16 oz Can,24,26.28,39.43,True
+1030,REIG-RAISHE,Reign,Performance Energy,Reign Rainbow Sherbet,Rainbow Sherbet,16 oz Can,24,26.88,38.59,True
+1031,REIG-WHIGUMBEA,Reign,Performance Energy,Reign White Gummy Bear,White Gummy Bear,16 oz Can,24,25.92,37.0,True
+1032,REIG-MELMAN,Reign,Performance Energy,Reign Melon Mania,Melon Mania,16 oz Can,24,24.74,38.44,True
+1033,REIG-CHELIM,Reign,Performance Energy,Reign Cherry Limeade,Cherry Limeade,16 oz Can,24,28.46,39.3,True
+1034,REIG-SOUGUMWOR,Reign,Performance Energy,Reign Sour Gummy Worm,Sour Gummy Worm,16 oz Can,24,28.43,38.89,True

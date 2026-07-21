@@ -1,0 +1,501 @@
+customer_id,customer_name,customer_type,channel,city,state,region
+1,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+2,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+3,Walmart,Retail,Retail,Bentonville,AR,South
+4,7-Eleven,Convenience,Convenience,Irving,TX,South
+5,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+6,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+7,Albertsons,Grocery,Grocery,Boise,ID,West
+8,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+9,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+10,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+11,Costco,Retail,Retail,Issaquah,WA,West
+12,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+13,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+14,Target,Retail,Retail,Minneapolis,MN,Midwest
+15,Walmart,Retail,Retail,Bentonville,AR,South
+16,Costco,Retail,Retail,Issaquah,WA,West
+17,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+18,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+19,UNFI,Distributor,Distributor,Providence,RI,Northeast
+20,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+21,Walmart,Retail,Retail,Bentonville,AR,South
+22,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+23,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+24,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+25,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+26,,Convenience,Convenience,Ankeny,IA,Midwest
+27,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+28,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+29,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+30,7-Eleven,Convenience,Convenience,Irving,TX,South
+31,Walmart,Retail,Retail,Bentonville,AR,South
+32,Safeway,Grocery,Grocery,Pleasanton,CA,West
+33,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+34,Speedway,Convenience,Convenience,Enon,OH,Midwest
+35,7-Eleven,Convenience,Convenience,Irving,TX,South
+36,Albertsons,Grocery,Grocery,Boise,ID,West
+37,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+38,Speedway,Convenience,Convenience,Enon,OH,Midwest
+39,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+40,Costco,Retail,Retail,Issaquah,WA,West
+41,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+42,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+43,Wawa,Convenience,Convenience,Media,PA,Northeast
+44,Wawa,Convenience,Convenience,Media,PA,Northeast
+45,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+46,7-Eleven,Convenience,Convenience,Irving,TX,South
+47,Target,Retail,Retail,Minneapolis,MN,Midwest
+48,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+49,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+50,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+51,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+52,Costco,Retail,Retail,Issaquah,WA,West
+53,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+54,Circle K,Convenience,Convenience,Tempe,AZ,West
+55,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+56,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+57,Wawa,Convenience,Convenience,Media,PA,Northeast
+58,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+59,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+60,Costco,Retail,Retail,Issaquah,WA,West
+61,Target,Retail,Retail,Minneapolis,MN,Midwest
+62,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+63,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+64,Circle K,Convenience,Convenience,Tempe,AZ,West
+65,Costco,Retail,Retail,Issaquah,WA,West
+66,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+67,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+68,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+69,7-Eleven,Convenience,Convenience,Irving,TX,South
+70,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+71,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+72,Wawa,Convenience,Convenience,Media,PA,Northeast
+73,Safeway,Grocery,Grocery,Pleasanton,CA,West
+74,Wawa,Convenience,Convenience,Media,PA,Northeast
+75,Wawa,Convenience,Convenience,Media,PA,Northeast
+76,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Wesst
+77,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+78,7-Eleven,Convenience,Convenience,Irving,TX,South
+79,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+80,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+81,Costco,Retail,Retail,Issaquah,WA,West
+82,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+83,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+84,Safeway,Grocery,Grocery,Pleasanton,CA,West
+85,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+86,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+87,Safeway,Grocery,Grocery,Pleasanton,CA,West
+88,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+89,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+90,7-Eleven,Convenience,Convenience,Irving,TX,South
+91,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+92,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+93,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+94,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+95,Speedway,Convenience,Convenience,Enon,OH,Midwest
+96,Target,Retail,Retail,Minneapolis,MN,Midwest
+97,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+98,Target,Retail,Retail,Minneapolis,MN,Midwest
+99,Speedway,Convenience,Convenience,Enon,OH,Midwest
+100,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+101,7-Eleven,Convenience,Convenience,Irving,TX,South
+102,Costco,Retail,Retail,Issaquah,WA,West
+103,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+104,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+105,Speedway,Convenience,Convenience,Enon,OH,Midwest
+106,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+107,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+108,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+109,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+110,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+111,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+112,Albertsons,Grocery,Grocery,Boise,ID,West
+113,7-Eleven,Convenience,Convenience,Irving,TX,South
+114,Albertsons,Grocery,Grocery,Boise,ID,West
+115,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+116,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+117,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+118,7-Eleven,Convenience,Convenience,Irving,TX,South
+119,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+120,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+121,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+122,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+123,Wawa,Convenience,Convenience,Media,PA,Northeast
+124,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+125,Albertsons,Grocery,Grocery,Boise,ID,West
+126,UNFI,Distributor,Distributor,Providence,RI,Northeast
+127,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+128,Costco,Retail,Retail,Issaquah,WA,West
+129,Target,Retail,Retail,Minneapolis,MN,Midwest
+130,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+131,Albertsons,Grocery,Grocery,Boise,ID,West
+132,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+133,Safeway,Grocery,Grocery,Pleasanton,CA,West
+134,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+135,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+136,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+137,Costco,Retail,Retail,Issaquah,WA,West
+138,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+139,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+140,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+141,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+142,UNFI,Distributor,Distributor,Providence,RI,Northeast
+143,7-Eleven,Convenience,Convenience,Irving,TX,South
+144,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+145,Walmart,Retail,Retail,Bentonville,AR,South
+146,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+147,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+148,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+149,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+150,7-Eleven,Convenience,Convenience,Irving,TX,South
+151,,Distributor,Distributor,Chicago,IL,Midwest
+152,Speedway,Convenience,Convenience,Enon,OH,Midwest
+153,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+154,Circle K,Convenience,Convenience,Tempe,AZ,West
+155,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+156,Safeway,Grocery,Grocery,Pleasanton,CA,West
+157,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+158,Walmart,Retail,Retail,Bentonville,AR,South
+159,7-Eleven,Convenience,Convenience,Irving,TX,South
+160,UNFI,Distributor,Distributor,Providence,RI,Northeast
+161,Safeway,Grocery,Grocery,Pleasanton,CA,West
+162,UNFI,Distributor,Distributor,Providence,RI,Northeast
+163,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+164,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+165,Circle K,Convenience,Convenience,Tempe,AZ,West
+166,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+167,UNFI,Distributor,Distributor,Providence,RI,Northeast
+168,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+169,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+170,Albertsons,Grocery,Grocery,Boise,ID,West
+171,Wawa,Convenience,Convenience,Media,PA,Northeast
+172,Safeway,Grocery,Grocery,Pleasanton,CA,West
+173,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+174,UNFI,Distributor,Distributor,Providence,RI,Northeast
+175,Walmart,Retail,Retail,Bentonville,AR,South
+176,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+177,Speedway,Convenience,Convenience,Enon,OH,Midwest
+178,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+179,Walmart,Retail,Retail,Bentonville,AR,South
+180,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+181,Wawa,Convenience,Convenience,Media,TX,Northeast
+182,Circle K,Convenience,Convenience,Tempe,AZ,West
+183,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+184,Target,Retail,Retail,Minneapolis,MN,Midwest
+185,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+186,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+187,Costco,Retail,Retail,Issaquah,WA,West
+188,Costco,Retail,Retail,Issaquah,WA,West
+189,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+190,Costco,Retail,Retail,Issaquah,WA,West
+191,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+192,Albertsons,Grocery,Grocery,Boise,ID,West
+193,Albertsons,Grocery,Grocery,Boise,ID,West
+194,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+195,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+196,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+197,Safeway,Grocery,Grocery,Pleasanton,CA,West
+198,7-Eleven,Convenience,Convenience,Irving,TX,South
+199,UNFI,Distributor,Distributor,Providence,RI,Northeast
+200,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+201,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+202,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+203,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+204,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+205,Circle K,Convenience,Convenience,Tempe,AZ,West
+206,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+207,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+208,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+209,Wawa,Convenience,Convenience,Media,PA,Northeast
+210,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+211,UNFI,Distributor,Distributor,Providence,RI,Northeast
+212,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+213,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+214,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+215,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+216,Costco,Retail,Retail,Issaquah,WA,West
+217,Speedway,Convenience,Convenience,Enon,OH,Midwest
+218,Walmart,Retail,Retail,Bentonville,AR,South
+219,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+220,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+221,Walgreens,Retail,Retail,Deerfield,IL,Northeest
+222,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+223,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+224,Walmart,Retail,Retail,Bentonville,AR,South
+225,Costco,Retail,Retail,Issaquah,WA,West
+226,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+227,Target,Retail,Retail,Minneapolis,MN,Midwest
+228,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+229,Costco,Retail,Retail,Issaquah,WA,West
+230,Target,Retail,Retail,Minneapolis,MN,Midwest
+231,Speedway,Convenience,Convenience,Enon,OH,Midwest
+232,Costco,Retail,Retail,Issaquah,WA,West
+233,UNFI,Distributor,Distributor,Providence,RI,Northeast
+234,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+235,7-Eleven,Convenience,Convenience,Irving,TX,South
+236,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+237,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+238,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+239,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+240,Albertsons,Grocery,Grocery,Boise,ID,West
+241,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+242,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+243,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+244,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+245,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+246,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+247,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+248,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+249,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+250,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+251,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+252,Wawa,Convenience,Convenience,Media,PA,Northeast
+253,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+254,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+255,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+256,Target,Retail,Retail,Minneapolis,MN,Midwest
+257,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+258,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+259,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+260,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+261,Target,Retail,Retail,Minneapolis,MN,Midwest
+262,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+263,Speedway,Convenience,Convenience,Enon,OH,Midwest
+264,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+265,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+266,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+267,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+268,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+269,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+270,Albertsons,Grocery,Grocery,Boise,ID,West
+271,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+272,Safeway,Grocery,Grocery,Pleasanton,CA,West
+273,7-Eleven,Convenience,Convenience,Irving,TX,South
+274,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+275,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+276,Costco,Retail,Retail,Issaquah,WA,West
+277,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+278,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+279,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+280,Target,Retail,Retail,Minneapolis,MN,Midwest
+281,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+282,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+283,Walmart,Retail,Retail,Bentonville,AR,South
+284,Costco,Retail,Retail,Issaquah,WA,West
+285,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+286,Safeway,Grocery,Grocery,Pleasanton,CA,West
+287,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+288,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+289,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+290,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+291,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+292,Target,Retail,Retail,Minneapolis,MN,Midwest
+293,Safeway,Grocery,Grocery,Pleasanton,CA,West
+294,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+295,Walmart,Retail,Retail,Bentonville,AR,South
+296,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+297,7-Eleven,Convenience,Convenience,Irving,TX,South
+298,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+299,Circle K,Convenience,Convenience,Tempe,AZ,West
+300,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+300,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+302,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+303,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+304,Albertsons,Grocery,Grocery,Boise,ID,West
+305,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+306,Circle K,Convenience,Convenience,Tempe,AZ,West
+307,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+308,Target,Retail,Retail,Minneapolis,MN,Midwest
+309,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+310,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+311,Target,Retail,Retail,Minneapolis,MN,Midwest
+312,Speedway,Convenience,Convenience,Enon,OH,Midwest
+313,Target,Retail,Retail,Minneapolis,MN,Midwest
+314,Target,Retail,Retail,Minneapolis,MN,Midwest
+315,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+316,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+317,UNFI,Distributor,Distributor,Providence,RI,Northeast
+318,UNFI,Distributor,Distributor,Providence,RI,Northeast
+319,Safeway,Grocery,Grocery,Pleasanton,CA,West
+320,Target,Retail,Retail,Minneapolis,MN,Midwest
+321,UNFI,Distributor,Distributor,Providence,RI,Northeast
+322,Costco,Retail,Retail,Issaquah,WA,West
+323,Safeway,Grocery,Grocery,Pleasanton,CA,West
+324,Costco,Retail,Retail,Issaquah,WA,West
+325,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+326,Costco,Retail,Retail,Issaquah,WA,West
+327,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+328,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+329,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+330,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+331,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+332,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+333,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+334,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+335,Target,Retail,Retail,Minneapolis,MN,Midwest
+336,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+337,Costco,Retail,Retail,Issaquah,WA,West
+338,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+339,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+340,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+341,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+342,UNFI,Distributor,Distributor,Providence,RI,Northeast
+343,Speedway,Convenience,Convenience,Enon,OH,Midwest
+344,7-Eleven,Convenience,Convenience,Irving,TX,South
+345,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+346,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+347,Speedway,Convenience,Convenience,Enon,OH,Midwest
+348,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+349,7-Eleven,Convenience,Convenience,Irving,TX,South
+350,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+351,Albertsons,Grocery,Grocery,Boise,ID,West
+352,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+353,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+354,Circle K,Convenience,Convenience,Tempe,AZ,West
+355,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+356,Speedway,Convenience,Convenience,Enon,OH,Midwest
+357,Costco,Retail,Retail,Issaquah,WA,West
+358,Walmart,Retail,Retail,Bentonville,AR,South
+359,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+360,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+361,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+362,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+363,Costco,Retail,Retail,Issaquah,WA,West
+364,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+365,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+366,UNFI,Distributor,Distributor,Providence,RI,Northeast
+367,7-Eleven,Convenience,Convenience,Irving,TX,South
+368,Albertsons,Grocery,Grocery,Boise,ID,West
+369,Wawa,Convenience,Convenience,Media,PA,Northeast
+370,Costco,Retail,Retail,Issaquah,WA,West
+371,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+372,Wawa,Convenience,Convenience,Media,PA,Northeast
+373,Circle K,Convenience,Convenience,Tempe,AZ,West
+374,Safeway,Grocery,Grocery,Pleasanton,CA,West
+375,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+376,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+377,Circle K,Convenience,Convenience,Tempe,AZ,West
+378,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+379,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+380,UNFI,Distributor,Distributor,Providence,RI,Northeast
+381,Walmart,Retail,Retail,Bentonville,AR,South
+382,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+383,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+384,Circle K,Convenience,Convenience,Tempe,AZ,West
+385,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+386,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+387,Albertsons,Grocery,Grocery,Boise,ID,West
+388,7-Eleven,Convenience,Convenience,Irving,TX,South
+389,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+390,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+391,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+392,Albertsons,Grocery,Grocery,Boise,ID,West
+393,7-Eleven,Convenience,Convenience,Irving,TX,South
+394,Circle K,Convenience,Convenience,Tempe,AZ,West
+395,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+396,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+397,Speedway,Convenience,Convenience,Enon,OH,Midwest
+398,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+399,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+400,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+401,7-Eleven,Convenience,Convenience,Irving,TX,South
+402,UNFI,Distributor,Distributor,Providence,RI,Northeast
+403,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+404,7-Eleven,Convenience,Convenience,Irving,TX,South
+405,Target,Retail,Retail,Minneapolis,MN,Midwest
+406,Costco,Retail,Retail,Issaquah,WA,West
+407,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+408,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+409,7-Eleven,Convenience,Convenience,Irving,TX,South
+410,Target,Retail,Retail,Minneapolis,MN,Midwest
+411,Walmart,Retail,Retail,Bentonville,AR,South
+412,Speedway,Convenience,Convenience,Enon,OH,Midwest
+413,Albertsons,Grocery,Grocery,Boise,ID,West
+414,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+415,7-Eleven,Convenience,Convenience,Irving,TX,South
+416,Safeway,Grocery,Grocery,Pleasanton,CA,West
+417,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+418,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+419,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+420,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+421,Walmart,Retail,Retail,Bentonville,AR,South
+422,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+423,Costco,Retail,Retail,Issaquah,WA,West
+424,Albertsons,Grocery,Grocery,Boise,ID,West
+425,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+426,Target,Retail,Retail,Minneapolis,MN,Midwest
+427,Wawa,Convenience,Convenience,Media,PA,Northeast
+428,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+429,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+430,Albertsons,Grocery,Grocery,Boise,ID,West
+431,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+432,Albertsons,Grocery,Grocery,Boise,ID,West
+433,Target,Retail,Retail,Minneapolis,MN,Midwest
+434,Circle K,Convenience,Convenience,Tempe,AZ,West
+435,Wawa,Convenience,Convenience,Media,PA,Northeast
+436,Target,Retail,Retail,Minneapolis,MN,Midwest
+437,Wawa,Convenience,Convenience,Media,PA,Northeast
+438,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+439,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+440,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+441,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+442,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+443,Wawa,Convenience,Convenience,Media,PA,Northeast
+444,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+445,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+446,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+447,Albertsons,Grocery,Grocery,Boise,ID,West
+448,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+449,Safeway,Grocery,Grocery,Pleasanton,CA,West
+450,Safeway,Grocery,Grocery,Pleasanton,CA,West
+451,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+452,Walmart,Retail,Retail,Bentonville,AR,South
+453,Safeway,Grocery,Grocery,Pleasanton,CA,West
+454,Speedway,Convenience,Convenience,Enon,OH,Midwest
+455,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+456,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+457,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+458,7-Eleven,Convenience,Convenience,Irving,TX,South
+459,Safeway,Grocery,Grocery,Pleasanton,CA,West
+460,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+461,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+462,Target,Retail,Retail,Minneapolis,MN,Midwest
+463,Core-Mark,Distributor,Distributor,South San Francisco,CA,West
+464,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+465,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+466,Reyes Beverage Group,Distributor,Distributor,Los Angeles,CA,West
+467,Wawa,Convenience,Convenience,Media,PA,Northeast
+468,Circle K,Convenience,Convenience,Tempe,AZ,West
+469,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+470,Walgreens,Retail,Retail,Deerfield,IL,Midwest
+471,Walmart,Retail,Retail,Bentonville,AR,South
+472,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+473,CVS Pharmacy,Retail,Retail,Woonsocket,RI,Northeast
+474,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+475,Speedway,Convenience,Convenience,Enon,OH,Midwest
+476,7-Eleven,Convenience,Convenience,Irving,TX,South
+477,Costco,Retail,Retail,Issaquah,WA,West
+478,7-Eleven,Convenience,Convenience,Irving,TX,South
+479,Wawa,Convenience,Convenience,Media,PA,Northeast
+480,Midwest Beverage Partners,Distributor,Distributor,Chicago,IL,Midwest
+481,UNFI,Distributor,Distributor,Providence,RI,Northeast
+482,Sheetz,Convenience,Convenience,Altoona,PA,Northeast
+483,Mountain Retail Alliance,Retail,Retail,Denver,CO,Mountain
+484,KeHE,Distributor,Distributor,Naperville,IL,Midwest
+485,Speedway,Convenience,Convenience,Enon,OH,Midwest
+486,Walmart,Retail,Retail,Bentonville,AR,South
+487,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+488,7-Eleven,Convenience,Convenience,Irving,TX,South
+489,Safeway,Grocery,Grocery,Pleasanton,CA,West
+490,Pacific Beverage Distribution,Distributor,Distributor,San Diego,CA,West
+491,7-Eleven,Convenience,Convenience,Irving,TX,South
+492,Target,Retail,Retail,Minneapolis,MN,Midwest
+493,Kroger,Grocery,Grocery,Cincinnati,OH,Midwest
+494,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+495,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+496,Wawa,Convenience,Convenience,Media,PA,Northeast
+497,Speedway,Convenience,Convenience,Enon,OH,Midwest
+498,Casey's General Store,Convenience,Convenience,Ankeny,IA,Midwest
+499,Southern Convenience Network,Distributor,Distributor,Houston,TX,South
+500,UNFI,Distributor,Distributor,Providence,RI,Northeast
