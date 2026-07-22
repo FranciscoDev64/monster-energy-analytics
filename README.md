@@ -607,11 +607,11 @@ Key metrics:
 
 Preview:
 
-![Executive Dashboard](docs/images/executive_dashboard.png)
+![Executive Overview](docs/images/executive-overview.png)
 
 ---
 
-## Sales Performance Dashboard
+## Product Performance Dashboard
 
 Focuses on understanding product and customer sales trends.
 
@@ -625,11 +625,11 @@ Includes:
 
 Preview:
 
-![Sales Dashboard](docs/images/sales_dashboard.png)
+![Product Performance](docs/images/product-performance.png)
 
 ---
 
-## Operations Dashboard
+## Inventory & Operations Dashboard
 
 Provides visibility into inventory and distribution performance.
 
@@ -642,24 +642,13 @@ Includes:
 
 Preview:
 
-![Operations Dashboard](docs/images/operations_dashboard.png)
+![Inventory & Operations](docs/images/inventory-operations.png)
 
 ---
 
-## Returns & Quality Dashboard
+## About This Project
 
-Analyzes product return activity and potential operational issues.
-
-Includes:
-
-- Return volume
-- Return reasons
-- Product return rates
-- Quality issue trends
-
-Preview:
-
-![Returns Dashboard](docs/images/returns_dashboard.png)
+![About This Project](docs/images/about-project.png)
 
 ---
 
